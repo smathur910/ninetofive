@@ -1,0 +1,26 @@
+.hero-img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-img-container>img {
+    width: 80%;
+}
+
+h1.title-main-heading {
+    font-size: 3.15rem;
+    font-weight: bold;
+}
+
+
+h1.title-main-heading span{
+    color: var(--primary-color);
+}
+
+.hero-text-container>* {
+    margin: 1.5rem 0;
+}
+
+.hero-text-container button {
+    font-size: 1.25rem;
+}

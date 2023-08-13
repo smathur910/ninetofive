@@ -1,0 +1,5 @@
+.navbar-brand img{width: 100%;}
+
+ul.navbar-nav.justify-content-center.w-100 {
+    gap: 2rem;
+}
